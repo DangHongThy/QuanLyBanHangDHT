@@ -1,0 +1,5 @@
+D:\QuanLyBanHang\DTO\bin\Debug\DTO.dll
+D:\QuanLyBanHang\DTO\bin\Debug\DTO.pdb
+D:\QuanLyBanHang\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\QuanLyBanHang\DTO\obj\Debug\DTO.dll
+D:\QuanLyBanHang\DTO\obj\Debug\DTO.pdb

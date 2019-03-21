@@ -1,0 +1,9 @@
+D:\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csprojResolveAssemblyReference.cache
+D:\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.frmLogIn.resources
+D:\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.frmSupplier.resources
+D:\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.Properties.Resources.resources
+D:\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.csproj.GenerateResource.Cache
+D:\QuanLyBanHang\bin\Debug\QuanLyBanHang.exe
+D:\QuanLyBanHang\bin\Debug\QuanLyBanHang.pdb
+D:\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.exe
+D:\QuanLyBanHang\QuanLyBanHang\obj\x86\Debug\QuanLyBanHang.pdb
